@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-this is a test 
+使用 cmd 窗口！
